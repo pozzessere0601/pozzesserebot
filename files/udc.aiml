@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+<category>
+    <pattern>Ciao</pattern>
+    <template>Ciao, sono PozzessereBot, come posso aiutarti?
+Per sapere i miei comandi scrivi help</template>
+</category>
+<category>
+    <pattern>help</pattern>
+    <template>Ciao, questi sono i miei comandi: 
+frase (motivazionale)
+proverbio
+avverbio
+articoli</template>
+</category>
+<category>
+    <pattern>frase</pattern>
+    <template>La migliore preparazione per domani è fare il tuo meglio oggi.</template>
+</category>
+<category>
+    <pattern>proverbio
+</pattern>
+    <template>A buon cavallo non occorre dir trotta</template>
+</category>
+<category>
+    <pattern>avverbio</pattern>
+    <template>Gli avverbi di tempo più usati nella lingua italiana sono: ora, adesso, ormai, prima, dopo, sempre, spesso, talora, ancora, tuttora, già, mai, presto, tardi, oggi, domani, stamani, recentemente, successivamente.</template>
+</category>
+<category>
+    <pattern>articoli
+</pattern>
+    <template>L'articolo è un morfema con la funzione di determinante di un sostantivo, nel senso che ne specifica alcune caratteristiche semantiche: l'articolo, infatti, esplicita l'opposizione pragmatica tra tema e rema o tra classe e membro</template>
+</category>
+<category>
+    <pattern>informazioni</pattern>
+    <template>Il bot è stato creato e sviluppato da Francesco Pozzessere</template>
+</category>
+
+</aiml>
